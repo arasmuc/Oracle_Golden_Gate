@@ -1,0 +1,5 @@
+DBLogin UserID oggadm@xxxx.xxx.xx, Password xxxxx
+Start Mgr
+Info Mgr
+Info CheckpointTable
+Info all
