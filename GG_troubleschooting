@@ -1,4 +1,11 @@
 ./oggerr OGG-XXX
+oracle@edvmr1p1 ogg_src]$ ./oggerr OGG-00048
+00048, 00000, "{0} cannot be specified when SOURCEISTABLE/SOURCEISFILE is specified"
+// *{0}: paramName (String)
+// *Cause:  The specified parameter cannot be used when SOURCEISTABLE or
+//          SOURCEISFILE is used in the same parameter file.
+// *Action: Remove the parameter.
+[oracle@edvmr1p1 ogg_src]$ 
 ----------------------------------------------------------------------------------------------------------------------
 VIEW REPORT Proces_name
 ----------------------------------------------------------------------------------------------------------------------
