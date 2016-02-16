@@ -1,0 +1,13 @@
+Logdump 8 >pos 0
+Reading forward from RBA 0 
+Logdump 9 >log to randy_demo_of_logdump.txt
+--- Session log randy_demo_of_logdump.txt opened 2016/02/16 22:29:23.449.103 --- 
+Logdump 10 >fileheader on
+Logdump 11 >fileheader detail
+Logdump 12 >ghdr on
+Logdump 13 >detail on
+Logdump 14 >detail data
+Logdump 15 >ggstoken detail
+Logdump 16 >reclen 1000
+Reclen set to 1000 
+Logdump 17 >
